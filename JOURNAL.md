@@ -1,4 +1,4 @@
-# Custom 3D Printer
+<img width="590" height="647" alt="image" src="https://github.com/user-attachments/assets/506f4cdf-0e6b-4ea4-b040-f40ebb81ba2a" /># Custom 3D Printer
 
 Total Time Spent - 7 hours
 
@@ -27,3 +27,12 @@ Total Time Spent - 7 hours
   - **CAD**
     - Replace the structural blocks with Aluminium 2020 and 2040 Extrusions
     <p align="center"><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2db09694-ed9b-4033-9140-5c7824eddcf0" /></p>
+  - **Software**
+
+- ### Day 3 (30 July, 2025) (Journal 1) (1 hrs)
+  - **Research** 
+  - **CAD**
+    - Added Stepper Motors, Shafts, Threaded Rods. 
+    <p align="center"><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eb41cba4-03f0-452c-a92b-e7a675b11f31" /></p>
+  - **Software**
+ 
