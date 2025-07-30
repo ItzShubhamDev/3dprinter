@@ -36,3 +36,13 @@ Total Time Spent - 18 hours
     <p align="center"><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eb41cba4-03f0-452c-a92b-e7a675b11f31" /></p>
   - **Software**
  
+- ### Day 3 (30 July, 2025) (Journal 2) (4 hrs)
+  - **Research**
+    - After adding the stepper motor and threaded rod of 400mm, saw some incorrect measurents of the Aluminium profiles so recalculated the lengths of all profiles.
+  - **CAD**
+    - Updated the Structure to new lengths of Aluminium Profiles.
+    <p align="center"><img width="600" height="705" alt="image" src="https://github.com/user-attachments/assets/e3a4aeb9-8778-432d-b22e-7cb9c8dad778" /></p> 
+    - Couldn't find any step files for rod support, so created one using the below measurements.
+    <p align="center"><img src="https://robu.in/wp-content/uploads/2017/12/SK10-SH10-Dimensions.jpg"></p>
+    <p align="center"><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/94023340-fec5-4161-9103-5c8c3c8f8613" /></p>
+ 
