@@ -1,6 +1,6 @@
-<img width="590" height="647" alt="image" src="https://github.com/user-attachments/assets/506f4cdf-0e6b-4ea4-b040-f40ebb81ba2a" /># Custom 3D Printer
+# Custom 3D Printer
 
-Total Time Spent - 7 hours
+Total Time Spent - 18 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
