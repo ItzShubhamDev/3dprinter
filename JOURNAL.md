@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 18 hours
+Total Time Spent - 29 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
@@ -45,4 +45,16 @@ Total Time Spent - 18 hours
     - Couldn't find any step files for rod support, so created one using the below measurements.
     <p align="center"><img src="https://robu.in/wp-content/uploads/2017/12/SK10-SH10-Dimensions.jpg"></p>
     <p align="center"><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/94023340-fec5-4161-9103-5c8c3c8f8613" /></p>
+
+- ### Day 3 (30 July, 2025) (Journal 3) (5 hrs)
+  - **Research**
+    - Read articles and watched different videos on X-Y Plane Movement in CoreXY Printers. Almost every one of them used Linear Rails which were very expensive, so I thought of using V Wheels as I am already using Aluminium Extrusion Profiles.
+  - **CAD**
+    - Added the previous created rod supports and smooth rods.
+    <p align="center"><img width="630" height="723" alt="image" src="https://github.com/user-attachments/assets/3d9aca44-cb8e-4749-bd1a-f2823aa05bc9" /></p>
+    - Created a custom wheel for the one available in local store.
+    <p align="center"><img width="631" height="506" alt="image" src="https://github.com/user-attachments/assets/2d90f682-f82c-46c3-9d5e-af76b71d621d" /></p>
+    - Added wheels, created a part to connect the wheels with moving extrusion in between and yes measurements for XY axis are also messed up.
+    <p align="center"><img width="600" height="725" alt="image" src="https://github.com/user-attachments/assets/19303293-7bdf-4d9d-90a6-ec89e56fa56e" /></p>
+
  
