@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 29 hours
+Total Time Spent - 34 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
@@ -57,4 +57,13 @@ Total Time Spent - 29 hours
     - Added wheels, created a part to connect the wheels with moving extrusion in between and yes measurements for XY axis are also messed up.
     <p align="center"><img width="600" height="725" alt="image" src="https://github.com/user-attachments/assets/19303293-7bdf-4d9d-90a6-ec89e56fa56e" /></p>
 
- 
+ - ### Day 4 (31 July, 2025) (Journal 1) (5 hrs)
+   - **Research**
+     - Gathered info how to properly use Vwheels on CoreXY, only found not to use Vwheels on CoreXY due to terrible performance. Watched some more CoreXY builds and found all using linear rails only, so decided to go with linear rails myself.
+   - **CAD**
+     - First created a linear rail model of 300mm using a reference model of 100mm
+     <p align="center"><img width="487" height="287" alt="image" src="https://github.com/user-attachments/assets/52d03d74-f53e-46d6-a749-93bda82bde37" /></p>
+     - Then imported the model in the main structure and place it on the 300mm Aluminium profile.
+     <p align="center"><img width="560" height="664" alt="image" src="https://github.com/user-attachments/assets/2fba6ee7-4b21-43e4-b9b7-ffd7caf0e7ba" /></p>
+     - Created a 3d model for L joins and placed it on all corners.
+     <p align="center"><img width="463" height="388" alt="image" src="https://github.com/user-attachments/assets/3e9807f8-7c90-49e8-90dd-a14503189a85" /></p>
