@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 43 hours
+Total Time Spent - 48 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
@@ -87,3 +87,8 @@ Total Time Spent - 43 hours
       </p> 
       - After finding out I needed a idle tooth pulley made a 3d model for that as well.
       <p align="center"><img width="419" height="454" alt="image" src="https://github.com/user-attachments/assets/5661f0d4-8e3e-4765-b374-c4ac93e1de09" /></p>
+
+  - ### Day 4 (31 July, 2025) (Journal 4) (5 hrs)
+    - **CAD**
+      - Added pulley, some printable parts, hotend, hotend cover.
+      <p align="center"><img width="492" height="640" alt="image" src="https://github.com/user-attachments/assets/f1514a33-a544-435d-8814-96ee499a9c43" /></p>  
