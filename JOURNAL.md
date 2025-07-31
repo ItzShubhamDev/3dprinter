@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 34 hours
+Total Time Spent - 39 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
@@ -67,3 +67,11 @@ Total Time Spent - 34 hours
      <p align="center"><img width="560" height="664" alt="image" src="https://github.com/user-attachments/assets/2fba6ee7-4b21-43e4-b9b7-ffd7caf0e7ba" /></p>
      - Created a 3d model for L joins and placed it on all corners.
      <p align="center"><img width="463" height="388" alt="image" src="https://github.com/user-attachments/assets/3e9807f8-7c90-49e8-90dd-a14503189a85" /></p>
+
+  - ### Day 4 (31 July, 2025) (Journal 2) (4 hrs)
+    - **Research**
+    - **CAD**
+      - Reconstructed whole module from scratch in a new Fusion Document because the old one had all the similar components linked together making me unable to change dimensions of a single component. Instead of copy pasting the whole components, copied only the bodies to get control over each item placed.
+      <p align="center"><img width="1000" height="750" alt="1" src="https://github.com/user-attachments/assets/0b9d7857-ec9e-4f94-92d8-dcd7ba3aa896" /></p>   
+      - Added XY linear rails
+      <p align="center"><img width="561" height="688" alt="Screenshot 2025-07-31 172029" src="https://github.com/user-attachments/assets/2e888b06-8152-406a-a3ea-9445dab4d621" /></p> 
