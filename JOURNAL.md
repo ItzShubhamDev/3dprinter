@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 39 hours
+Total Time Spent - 43 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
@@ -75,3 +75,15 @@ Total Time Spent - 39 hours
       <p align="center"><img width="1000" height="750" alt="1" src="https://github.com/user-attachments/assets/0b9d7857-ec9e-4f94-92d8-dcd7ba3aa896" /></p>   
       - Added XY linear rails
       <p align="center"><img width="561" height="688" alt="Screenshot 2025-07-31 172029" src="https://github.com/user-attachments/assets/2e888b06-8152-406a-a3ea-9445dab4d621" /></p> 
+
+  - ### Day 4 (31 July, 2025) (Journal 3) (4 hrs)
+    - **Research**
+      - After coming onto Pulleys section I got confused and watched the refernce video about pulley section for more than an hour just to realise I didn't focused on the word Idle Teeth Pulley and searched the whole web for that pulley size.
+    - **CAD**
+      - Since I didn't found the correct pulley I thought to go with an alternative and made a 3d model for that pulley, an idle pulley.
+      <p align="center">
+        <img width="414" height="509" alt="image" src="https://github.com/user-attachments/assets/fd3d0b24-1b5a-4b72-890e-aa0e5893ed0a" />
+        <img width="385" height="398" alt="image" src="https://github.com/user-attachments/assets/346471b5-679e-44f1-a4a3-450df8a59843" />
+      </p> 
+      - After finding out I needed a idle tooth pulley made a 3d model for that as well.
+      <p align="center"><img width="419" height="454" alt="image" src="https://github.com/user-attachments/assets/5661f0d4-8e3e-4765-b374-c4ac93e1de09" /></p>
