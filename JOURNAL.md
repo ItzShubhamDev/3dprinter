@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 48 hours
+Total Time Spent - 51 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
