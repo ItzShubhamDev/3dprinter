@@ -91,4 +91,9 @@ Total Time Spent - 48 hours
   - ### Day 4 (31 July, 2025) (Journal 4) (5 hrs)
     - **CAD**
       - Added pulley, some printable parts, hotend, hotend cover.
-      <p align="center"><img width="492" height="640" alt="image" src="https://github.com/user-attachments/assets/f1514a33-a544-435d-8814-96ee499a9c43" /></p>  
+      <p align="center"><img width="492" height="640" alt="image" src="https://github.com/user-attachments/assets/f1514a33-a544-435d-8814-96ee499a9c43" /></p> 
+
+  - ### Day 4 (31 July, 2025) (Final Journal) (3 hrs)
+    - **CAD**
+      - Added remaining components like heatbeds, linear bearings, etc.
+      <p align="center"><img width="461" height="614" alt="image" src="https://github.com/user-attachments/assets/9ad96524-51be-4250-bcf1-eb7d60997a59" /></p>  
