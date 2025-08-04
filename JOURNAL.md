@@ -1,6 +1,6 @@
 # Custom 3D Printer
 
-Total Time Spent - 51 hours
+Total Time Spent - 64 hours
 
 - ### Day 1 (28 July, 2025) ( 7 - 8 hrs )
   - **Research**
@@ -93,7 +93,24 @@ Total Time Spent - 51 hours
       - Added pulley, some printable parts, hotend, hotend cover.
       <p align="center"><img width="492" height="640" alt="image" src="https://github.com/user-attachments/assets/f1514a33-a544-435d-8814-96ee499a9c43" /></p> 
 
-  - ### Day 4 (31 July, 2025) (Final Journal) (3 hrs)
+  - ### Day 4 (31 July, 2025) (Journal 5) (3 hrs)
     - **CAD**
       - Added remaining components like heatbeds, linear bearings, etc.
-      <p align="center"><img width="461" height="614" alt="image" src="https://github.com/user-attachments/assets/9ad96524-51be-4250-bcf1-eb7d60997a59" /></p>  
+      <p align="center"><img width="461" height="614" alt="image" src="https://github.com/user-attachments/assets/9ad96524-51be-4250-bcf1-eb7d60997a59" /></p> 
+
+  - ### Day 5 (1 August, 2025) (Journal 1) (4 hrs)
+    - **CAD**
+      - Fixed various components like heatbed, added top covers for Z Axis motors.
+      <p align="center"><img width="718" height="498" alt="image" src="https://github.com/user-attachments/assets/4fae13a6-a9ca-40a7-9eae-55cd9278c49a" /></p>  
+
+  - ### Day 6 (3 August, 2025) (Journal 1) (2 hrs)
+    - **CAD**
+      - Added missing top joints for Threaded rods as reminded by a user in Slack.
+      <p align="center"><img width="1031" height="637" alt="image" src="https://github.com/user-attachments/assets/fc598405-0e91-4d9f-8fd9-8fb67c557ac2" /></p>
+
+  - ### Day 7 (4 August, 2025) (Journal 1) (7 hrs) (Fix after Review)
+    - **CAD**
+      - Fixed gantry, pulley levels, fixed hotend extruder cover, added belts and fixed heatbet support.
+        <p align="center"><img width="849" height="551" alt="image" src="https://github.com/user-attachments/assets/cb9a9801-42d4-4d02-a115-09b587cc2979" /></p>
+        <p align="center"><img width="922" height="475" alt="image" src="https://github.com/user-attachments/assets/be9b51e5-62f3-442c-ad1c-7195854f1f79" /></p>  
+   
