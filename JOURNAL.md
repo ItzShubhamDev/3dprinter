@@ -1,11 +1,11 @@
-# Yenvo X3
+---
+Title: "Yenvo X3"
+Author: "Shubham"
+Description: "A CoreXY 3D Printer having a large build volume 300x300x400 mm³"
+Created_at: "2024-07-28"
+---
 
----
-title: "Yenvo X3"
-author: "Shubham"
-description: "A CoreXY 3D Printer having a large build volume 300x300x400 mm³"
-created_at: "2024-07-28"
----
+# Yenvo X3
 
 Total Time Spent - 64 hours
 
