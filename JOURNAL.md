@@ -19,7 +19,7 @@ Total Time Spent: 64 hours
 
 ## Journal
 
-### Day 1
+### Day 1 (28 July)
 
 **Log 1** - Started the day by gathering a brief information on different types of 3D Printers, their advantages, disadvantages and working principle. (CoreXY, Cartesian, Delta, etc.). Initially thought of making a large size printer 400x400x400 mm³ CoreXY printer due to high speeds prints but was restricted to 300x300 mm² beds, so ended up with 300x300x300 mm³ still large height to allow larger builds to made without any joints. Gained a lot of information from various sources especially
 [TechBuilder's CoreXY Guide](https://www.youtube.com/watch?v=yuAN5AzEWCg) and [3DJake's CoreXY Guide](https://www.youtube.com/watch?v=NMfFirtB1D4).
@@ -27,7 +27,7 @@ Didn't did anything in CAD yet.
 
 **Time Spent** - 8 hours
 
-### Day 2
+### Day 2 (29 July)
 
 **Log 1** - Watched some more tutorials, regarding different CoreXY builds, component placements and different parts that can be used for getting the same effect. After some discussion with one of my friends, I decided to go with a 300x300x400 mm³ with the same bed size but still allowing models upto 400mm print without joints.
 
@@ -43,7 +43,7 @@ As for the CAD I started making up the basic structure of the Printer by using j
 
 **Time Spent** - 4 hours
 
-### Day 3
+### Day 3 (30 July)
 
 **Log 1** - Added the Stepper Motors, Shafts and 400mm Threaded Rods. The threaded rods appreared to be at height higher than the profiles due to starting ~50-60mm above ground surface because of the motor and shaft.
 So recreated the structure with more height in the Z Axis. And created some 3D models for the Linear shafts.
@@ -65,7 +65,7 @@ Added 300mm Aluminium Profile which felt short which I would be fixing tommorrow
 
 **Time spent** - 5 hours
 
-### Day 4
+### Day 4 (31 July)
 
 **Log 1** - As the 300mm Aluminium Profile felt short, adjusted it's length and created and added linear rails on side of the Aluminium profile, for the movement of hotend assembly on the X-Axis.
 And created L-Joints for the corners.
@@ -88,11 +88,8 @@ Had to recontruct from scratch in a new Document due to the fact components were
 Created 3 models for the pulleys required.
 The Pulleys section filled up a lot of confusion inside me, I was to search for Idler Teeth Pulley, but was just searching Teeth Pulley, which I never found. After releasing this I created a model for the Idler teeth pulley as well.
 
-
-          <img width="414" height="509" alt="image" src="https://github.com/user-attachments/assets/fd3d0b24-1b5a-4b72-890e-aa0e5893ed0a" />
-          <img width="385" height="398" alt="image" src="https://github.com/user-attachments/assets/346471b5-679e-44f1-a4a3-450df8a59843" />
-        
-
+<img width="414" height="509" alt="image" src="https://github.com/user-attachments/assets/fd3d0b24-1b5a-4b72-890e-aa0e5893ed0a" />
+<img width="385" height="398" alt="image" src="https://github.com/user-attachments/assets/346471b5-679e-44f1-a4a3-450df8a59843" />
 <img width="419" height="454" alt="image" src="https://github.com/user-attachments/assets/5661f0d4-8e3e-4765-b374-c4ac93e1de09" />
 
 **Time spent** - 4 hours
@@ -109,7 +106,9 @@ The Pulleys section filled up a lot of confusion inside me, I was to search for 
 
 **Time spent** - 3 hours
 
-### Day 5
+## Post Submission Journals
+
+### Day 5 (1 August)
 
 **Log 1** - Fixed heatbed and created mounting plates and brackets for motion and extrusion motors respectively.
 
@@ -117,7 +116,7 @@ The Pulleys section filled up a lot of confusion inside me, I was to search for 
 
 **Time spent** - 4 hours
 
-### Day 6
+### Day 6 (3 August)
 
 **Log 1** - Added missing top joints for threaded rods to mount it to Aluminium profiles.
 
@@ -125,7 +124,7 @@ The Pulleys section filled up a lot of confusion inside me, I was to search for 
 
 **Time spent** - 2 hours
 
-### Day 7
+### Day 7 (4 August)
 
 **Log 1** - Fixed gantry by adjusting the levels of pulleys and change pulleys types. The hotend extruder also seemed very odd, so redesigned it again.
 The Heatbed support felt a bit wierd when I thought of thier movement, so decided to extend the base to cover the full motion bearings
