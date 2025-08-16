@@ -61,7 +61,7 @@ This repository contains information related to 3D Printer, including the 3D par
 |MGN9H Linear Rail Block                         |1       |479        |479       |5.269    |https://novo3d.in/linear-guide-rail/?attribute_type=MGN9H                                              |
 |MGN12H Linear Rail Block                        |2       |499        |998       |10.978   |https://novo3d.in/linear-guide-rail/?attribute_type=MGN12H                                             |
 |Dual Gear Extruder                              |1       |649        |649       |7.139    |https://novo3d.in/dual-gear-extruder/                                                                  |
-|BambuLab Printhead V6                           |1       |1999       |1999      |21.989   |https://novo3d.in/bambu-lab/                                                                           |
+|Volcano Hotend 0.4mm                            |1       |999        |999       |11.40    |https://novo3d.in/volcano-print-j-head/                                                                |
 |Blower Fan                                      |1       |159        |159       |1.749    |https://novo3d.in/cooling-fan-turbo-4010/?attribute_type=12V+with+fan+guide&attribute_wire-length=100cm|
 |Cooling Fan                                     |2       |69         |138       |1.518    |https://novo3d.in/cooling-fan/?attribute_voltage=5V+with+100cm+Wire                                    |
 |40cm Single Start Threaded Rod                  |2       |299        |598       |6.578    |https://novo3d.in/single-start-lead-screw/?attribute_size=400mm                                        |
@@ -77,4 +77,4 @@ This repository contains information related to 3D Printer, including the 3D par
 |6mm Timing Belt                                 |1       |236        |236       |2.596    |https://novo3d.in/gt2-6mm-belt/                                                                        |
 |Flexible Coupling 5x8                           |2       |59         |118       |1.298    |https://novo3d.in/flexible-coupling-5x8mm/                                                             |
 |Misc. (Screw, Nuts, Connectors, Jointers,  etc.)|1       |2000       |2000      |22       |                                                                                                       |
-|Total                                           |        |           |          |308.858  |                                                                                                       |
+|Total                                           |        |           |          |298.269  |                                                                                                       |
