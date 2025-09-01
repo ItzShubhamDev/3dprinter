@@ -3,7 +3,7 @@ Title: "Yenvo X3"
 Author: "Shubham"
 Description: "A CoreXY 3D Printer having a large build volume 300x300x400 mm³"
 Created_at: "2024-07-28"
-Total Time Spent: 64 hours
+Total Time Spent: 70 hours
 ---
 
 # Yenvo X3
@@ -133,3 +133,13 @@ The Heatbed support felt a bit wierd when I thought of thier movement, so decide
 
 <img width="849" height="551" alt="image" src="https://github.com/user-attachments/assets/cb9a9801-42d4-4d02-a115-09b587cc2979" />
 <img width="922" height="475" alt="image" src="https://github.com/user-attachments/assets/be9b51e5-62f3-442c-ad1c-7195854f1f79" />
+
+### Day 8 (1 September)
+
+**Log 1** - After being called out, fixed some components, added filament spools holder, made a case / holder for power supply and added a mounting plate for the controller board.
+
+**Time Spent** - 6 hours
+
+<img width="425" height="512" alt="Screenshot 2025-09-01 233819" src="https://github.com/user-attachments/assets/48489c30-0cf5-4670-acd8-ec9343b4a25e" />
+<img width="786" height="582" alt="Screenshot 2025-09-01 233627" src="https://github.com/user-attachments/assets/be2322b1-0615-4853-a00d-11a84b2fb898" />
+<img width="436" height="352" alt="Screenshot 2025-09-01 233251" src="https://github.com/user-attachments/assets/9a4ceda8-69d7-4c35-99ff-9cd36b061448" />
