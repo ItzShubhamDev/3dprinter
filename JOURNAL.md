@@ -37,8 +37,8 @@ As for the CAD I started making up the basic structure of the Printer by using j
 
 **Time Spent** - 6 hours
 
-**Log 2** - Redesigned the structure by using 2020 and 2040 Aluminium Profiles.
-
+**Log 2** - After the basic structure completed, I redesigned the base structure with the use of 8x 2020 for the base and the height and 4x 2040 Aluminium Profiles for the top..
+ 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2db09694-ed9b-4033-9140-5c7824eddcf0" />
 
 **Time Spent** - 4 hours
@@ -94,13 +94,13 @@ The Pulleys section filled up a lot of confusion inside me, I was to search for 
 
 **Time spent** - 4 hours
 
-**Log 4** - Created and added 3D models for various parts such as pulleys, hotend, hotend cover and some other parts as well.
+**Log 4** - The 3D models for some components were missing that includes pulleys, hotend cover and some other parts too. So, I created the 3D models for them and included them into the design.
 
 <img width="492" height="640" alt="image" src="https://github.com/user-attachments/assets/f1514a33-a544-435d-8814-96ee499a9c43" />
 
 **Time spent** - 4 hours
 
-**Log 5** - Added other remaining components like heatbeds, linear bearing, etc.
+**Log 5** - Some other components that were missing like heatbeds, linear bearing, so created and added them as well.
 
 <img width="461" height="614" alt="image" src="https://github.com/user-attachments/assets/9ad96524-51be-4250-bcf1-eb7d60997a59" />
 
@@ -110,7 +110,7 @@ The Pulleys section filled up a lot of confusion inside me, I was to search for 
 
 ### Day 5 (1 August)
 
-**Log 1** - Fixed heatbed and created mounting plates and brackets for motion and extrusion motors respectively.
+**Log 1** - The heatbed I previously added was just a temporary and I made that it a hurry so I forgot the heatbed needs to be separated and the bottom part should be a separate entity screwed onto the Lead Screw and onto the Linear bearings. So fixed that. And also added mounting plates and brackets for the Motion and extrusions motors respectively.
 
 <img width="718" height="498" alt="image" src="https://github.com/user-attachments/assets/4fae13a6-a9ca-40a7-9eae-55cd9278c49a" />
 
@@ -118,7 +118,7 @@ The Pulleys section filled up a lot of confusion inside me, I was to search for 
 
 ### Day 6 (3 August)
 
-**Log 1** - Added missing top joints for threaded rods to mount it to Aluminium profiles.
+**Log 1** - The top part of the Threaded rods appeared to be flowing, so to fix that created a 3D model for threaded rod joint and a 3D printed part to screw it onto the the Aluminium profiles.
 
 <img width="1031" height="637" alt="image" src="https://github.com/user-attachments/assets/fc598405-0e91-4d9f-8fd9-8fb67c557ac2" />
 
