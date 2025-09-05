@@ -14,32 +14,31 @@ This repository contains information related to 3D Printer, including the 3D par
 - **Budget friendly** - Only around 300$ can be reduced more if in a metro city by buying parts locally.
 
 ### Printer 
-
-![](./images/1.png)
-![](./images/7.png)
-![](./images/8.png)
-![](./images/9.png)
-![](./images/10.png)
+<img width="1136" height="648" alt="1" src="https://github.com/user-attachments/assets/0cc08269-2fb0-466d-9e14-d0e3e35b31a7" />
+<img width="1136" height="648" alt="2" src="https://github.com/user-attachments/assets/0056a116-052d-4d6b-a4f5-4b01c7c50a28" />
+<img width="1136" height="648" alt="3" src="https://github.com/user-attachments/assets/0835eb66-d1ff-4476-be4e-e7908d0d2ad8" />
+<img width="1136" height="648" alt="4" src="https://github.com/user-attachments/assets/ae68f1cb-c778-4972-a41d-13c59b6f56f5" />
+<img width="1136" height="648" alt="5" src="https://github.com/user-attachments/assets/f35ec2ed-6a52-482b-8312-7fa64454d149" />
 
 ### Structure 
 
-![](./images/2.png)
+<img width="1136" height="648" alt="6" src="https://github.com/user-attachments/assets/f159aa66-e702-4b50-be9d-7c65daa5ce58" />
 
 ### Z-Axis
 
-![](./images/3.png)
+<img width="1136" height="648" alt="7" src="https://github.com/user-attachments/assets/e2799c9c-b6ef-4b94-8fec-8d5bb6bbdd22" />
 
-### XY Linear Rails
+### XY Motion
 
-![](./images/4.png)
+<img width="1136" height="648" alt="8" src="https://github.com/user-attachments/assets/7414bbfb-fe6f-42b0-b75b-2bbb8351ac50" />
 
-### Extruder
+### Print Area
 
-![](./images/5.png)
+<img width="1136" height="648" alt="9" src="https://github.com/user-attachments/assets/6147589f-e736-497f-9b66-c2a682dc81c8" />
 
 ### Motherboard, Power Supply and Display
 
-![](./images/6.png)
+<img width="1136" height="648" alt="10" src="https://github.com/user-attachments/assets/369d25ba-a69b-4b32-a3e3-9ca5cac1a4b5" />
 
 ## Bill Of Materials
 
