@@ -13,32 +13,21 @@ This repository contains information related to 3D Printer, including the 3D par
 - **Easy to maintain and upgrade** - If anything gives wrong just replace that part.
 - **Budget friendly** - Only around 300$ can be reduced more if in a metro city by buying parts locally.
 
-### Printer 
-<img width="1136" height="648" alt="1" src="https://github.com/user-attachments/assets/0cc08269-2fb0-466d-9e14-d0e3e35b31a7" />
-<img width="1136" height="648" alt="2" src="https://github.com/user-attachments/assets/0056a116-052d-4d6b-a4f5-4b01c7c50a28" />
-<img width="1136" height="648" alt="3" src="https://github.com/user-attachments/assets/0835eb66-d1ff-4476-be4e-e7908d0d2ad8" />
-<img width="1136" height="648" alt="4" src="https://github.com/user-attachments/assets/ae68f1cb-c778-4972-a41d-13c59b6f56f5" />
-<img width="1136" height="648" alt="5" src="https://github.com/user-attachments/assets/f35ec2ed-6a52-482b-8312-7fa64454d149" />
+### Images
 
-### Structure 
+<img width="1136" height="648" alt="1" src="https://github.com/user-attachments/assets/da40168c-4f75-4d91-9a49-460d1cd68f50" />
+<img width="1136" height="648" alt="2" src="https://github.com/user-attachments/assets/65faa24d-0bc6-4ab4-b5eb-b31d9c608bff" />
+<img width="1136" height="648" alt="3" src="https://github.com/user-attachments/assets/440660d9-f03e-4f86-8e4e-12ec5b12e844" />
+<img width="1136" height="648" alt="10" src="https://github.com/user-attachments/assets/34836cb7-061f-4eb9-a052-f5e2163d8118" />
+<img width="1136" height="648" alt="6" src="https://github.com/user-attachments/assets/37d466fa-ceea-42c8-8108-6c406c9fa26a" />
+<img width="1136" height="648" alt="5" src="https://github.com/user-attachments/assets/9ad11545-a351-448e-a758-c891e5105084" />
+<img width="1136" height="648" alt="4" src="https://github.com/user-attachments/assets/4420d646-c079-456f-bc5e-842fbd399f00" />
+<img width="1136" height="648" alt="9" src="https://github.com/user-attachments/assets/67e8dd5d-5bea-4156-ba9a-b7f6be049572" />
+<img width="1136" height="648" alt="8" src="https://github.com/user-attachments/assets/4b1c70bf-dd45-416a-9cf8-e74332b826dd" />
+<img width="1136" height="648" alt="7" src="https://github.com/user-attachments/assets/cdf6cfa4-709f-4886-8b46-e2eef61fc934" />
 
-<img width="1136" height="648" alt="6" src="https://github.com/user-attachments/assets/f159aa66-e702-4b50-be9d-7c65daa5ce58" />
 
-### Z-Axis
 
-<img width="1136" height="648" alt="7" src="https://github.com/user-attachments/assets/e2799c9c-b6ef-4b94-8fec-8d5bb6bbdd22" />
-
-### XY Motion
-
-<img width="1136" height="648" alt="8" src="https://github.com/user-attachments/assets/7414bbfb-fe6f-42b0-b75b-2bbb8351ac50" />
-
-### Print Area
-
-<img width="1136" height="648" alt="9" src="https://github.com/user-attachments/assets/6147589f-e736-497f-9b66-c2a682dc81c8" />
-
-### Motherboard, Power Supply and Display
-
-<img width="1136" height="648" alt="10" src="https://github.com/user-attachments/assets/369d25ba-a69b-4b32-a3e3-9ca5cac1a4b5" />
 
 ## Bill Of Materials
 
