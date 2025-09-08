@@ -3,7 +3,7 @@ Title: "Yenvo X3"
 Author: "Shubham"
 Description: "A CoreXY 3D Printer having a large build volume 300x300x400 mm³"
 Created_at: "2024-07-28"
-Total Time Spent: 70 hours
+Total Time Spent: 90 hours
 ---
 
 # Yenvo X3
@@ -12,7 +12,7 @@ Total Time Spent: 70 hours
 
 | Section          |   Details   |
 | ---------------- | ----------- |
-| Design Choices   | Decided to go with **CoreXY** over Cartesian / Delta printer for a combination of speed and stability.<br/> Wanted to make a large **400x400x400 mm³** printer but limited to **300x300x400 mm³** due to unavailibity of large heatbeds still enabling printing large parts without joints. <br /> Decided to use **2020 and 2040** Aluminium Extrusions for the sturcture to provide structural rigidity and ease to joints. <br /> Initially thought on using **V-Wheels** for the XY motion, went with **Linear Rails** after learning about the drawbacks of using V-Wheels. <br /> Used **2x Lead Screw Threaded Rods** both joint with one stepper motor each along with **4x Smooth Rods** for the movement of Z-Axis. <br /> For the movement of Hotend assembly along X-axis decided to go with **Linear Rails** too might be an overkill but would provide much precise movement <br /> For the extruder favoured **Bowden Drive Extruder** setup over the Direct Drive to minimize the vibrations and backslash errors on high-speed prints. <br /> As for the hotend, I would most likely be using a **0.4mm Volcano Hotend** to allow fast print times fitting the large build volume. <br /> As for the motherboard I would most likely be using [SKRat V1](https://novo3d.in/bigtreetech-skrat-v1-0/) due to it's pricing and connectors for 2 Z-Axis motors (which I might add in future) or [SKR MINI E3 V3](https://novo3d.in/skr-mini-e3/) which doesn't have separate connections for 2 Z-Axis motors but supports parallel connection with same pricing as SKRat V1 and additional silent features and larger heat sink for better heat management. |
+| Design Choices   | Decided to go with **CoreXY** over Cartesian / Delta printer for a combination of speed and stability.<br/> Wanted to make a large **400x400x400 mm³** printer but limited to **300x300x400 mm³** due to unavailibity of large heatbeds still enabling printing large parts without joints. <br /> Decided to use **2020 and 2040** Aluminium Extrusions for the sturcture to provide structural rigidity and ease to joints. <br /> Initially thought on using **V-Wheels** for the XY motion, went with **Linear Rails** after learning about the drawbacks of using V-Wheels. <br /> Used **2x Lead Screw Threaded Rods** both joint with one stepper motor each along with **4x Smooth Rods** for the movement of Z-Axis. <br /> For the movement of Hotend assembly along X-axis decided to go with **Linear Rails** too might be an overkill but would provide much precise movement <br /> For the extruder favoured went with **Direct drive**. <br /> As for the hotend, I would most likely be using a **0.4mm Volcano Hotend** to allow fast print times fitting the large build volume. <br /> As for the motherboard I would most likely be using [SKRat V1](https://novo3d.in/bigtreetech-skrat-v1-0/) due to it's pricing and connectors for 2 Z-Axis motors (which I might add in future) or [SKR MINI E3 V3](https://novo3d.in/skr-mini-e3/) which doesn't have separate connections for 2 Z-Axis motors but supports parallel connection with same pricing as SKRat V1 and additional silent features and larger heat sink for better heat management. |
 | Challenges Faced | The most problematic issue I faced was **Components Sourcing**, whenever I decided to go with a part either it was unavailable or was for ridiculous high price on the local vendors. And purchasing them overseas although cheaper would end up being higher price due to shippings and customs. <br /> The second problem I faced was dimensions issue since at start I had no idea what the dimensions would each part be, I had to made some changes almost every time I added a new component.|
 | References       | I got to learn a lot about CoreXY Printers builds from amazing videos like [TechBuilder's DIY Guide](https://www.youtube.com/watch?v=yuAN5AzEWCg) and [3DJake's DIY Guide](https://www.youtube.com/watch?v=NMfFirtB1D4), apart from these I also watched and read articles few more to learn more. <br /> I also used some 3D models from [GrabCAD](https://grabcad.com/). |
 | Learning         | Throughout the whole build I learnt a lot more about Fusion 360, how to use each and every tools. Apart from that I also learned how to design sketches effectively for an easier 3d model. Not only that I also got to know how to manage various instances of same component without creating a link between them. |
@@ -143,3 +143,18 @@ The Heatbed support felt a bit wierd when I thought of thier movement, so decide
 <img width="425" height="512" alt="Screenshot 2025-09-01 233819" src="https://github.com/user-attachments/assets/48489c30-0cf5-4670-acd8-ec9343b4a25e" />
 <img width="786" height="582" alt="Screenshot 2025-09-01 233627" src="https://github.com/user-attachments/assets/be2322b1-0615-4853-a00d-11a84b2fb898" />
 <img width="436" height="352" alt="Screenshot 2025-09-01 233251" src="https://github.com/user-attachments/assets/9a4ceda8-69d7-4c35-99ff-9cd36b061448" />
+
+### Day 9, 10 & 11 
+
+**Time Spent** - 20 hours
+
+My current model had a flaws so I recreated the whole model by improving and implementing a lot of changes which could have severily impacted the performance and/or functioning of the printer which includes but are not limited to:
+- Split all non printable parts into 2 halves.
+- Modified the Heat bed support plate
+- Modified the case for Display
+- Redesigned the gantry, inspired by a 3d printer built in real life and working smoothly
+- Removed support from leadscrew
+- Switched to Direct drive instead of Bowden drive
+and a various small changes.
+
+Special thanks to Tanishq & Raygen for helping me identifing and fixed those issues.
