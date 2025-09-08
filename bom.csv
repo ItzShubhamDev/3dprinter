@@ -1,34 +1,27 @@
-﻿Name,Quantity,Price (INR),Cost (INR),Cost(USD),Source
-Nema 17 Stepper Motor,5,459,2295,25.245,https://novo3d.in/nema17-4kgcm/?attribute_torque=4+kgcm+D+shaft+1m+wire
-320mm 2020 Aluminium Profile,1,255,255,2.805,https://novo3d.in/aluminium-profiles-2020/
-368mm 2020 Aluminium Profile,2,146,292,3.212,https://novo3d.in/aluminium-profiles-2020/
-380mm 2020 Aluminium Profile,5,303,1515,16.665,https://novo3d.in/aluminium-profiles-2020/
-480mm 2020 Aluminium Profile,4,380,1520,16.72,https://novo3d.in/aluminium-profiles-2020/
-328mm 2040 Aluminium Profile,2,279,558,6.138,https://novo3d.in/aluminium-profile-2040/
-460mm 2040 Aluminium Profile,1,391,391,4.301,https://novo3d.in/aluminium-profile-2040/
-500mm Smooth Rod,4,219,876,9.636,https://novo3d.in/aluminium-profile-2040/
-10mm Linear Motion Bearing,4,48,192,2.112,https://novo3d.in/lm10uu-10mm-bearing/
-Bigtreetech SKRat V1.0,1,3689,3689,40.579,https://novo3d.in/bigtreetech-skrat-v1-0/
-Limit Switch ,3,89,267,2.937,https://novo3d.in/limit-switch-vertical/
-30cm MGN9H Linear Rail Guide,1,799,799,8.789,https://novo3d.in/mgn9h-linear-rail/?attribute_length=30cm&attribute_block=without+block
-30cm MGN12H Linear Rail Guide,2,849,1698,18.678,https://novo3d.in/mgn12h-linear-rail/?attribute_size=30cm&attribute_type=without+block
-MGN9H Linear Rail Block,1,479,479,5.269,https://novo3d.in/linear-guide-rail/?attribute_type=MGN9H
-MGN12H Linear Rail Block,2,499,998,10.978,https://novo3d.in/linear-guide-rail/?attribute_type=MGN12H
-Dual Gear Extruder,1,649,649,7.139,https://novo3d.in/dual-gear-extruder/
-BambuLab Printhead V6,1,1999,1999,21.989,https://novo3d.in/bambu-lab/
-Blower Fan,1,159,159,1.749,https://novo3d.in/cooling-fan-turbo-4010/?attribute_type=12V+with+fan+guide&attribute_wire-length=100cm
-Cooling Fan,2,69,138,1.518,https://novo3d.in/cooling-fan/?attribute_voltage=5V+with+100cm+Wire
-40cm Single Start Threaded Rod,2,299,598,6.578,https://novo3d.in/single-start-lead-screw/?attribute_size=400mm
-PTFE Tube,1,89,89,0.979,https://novo3d.in/blue-ptfe/
-Meanwell PowerSupply,1,2499,2499,27.489,https://novo3d.in/mean-well-power-supply/?attribute_voltage=12V+30A
-Bigtreetech Display V2,1,1099,1099,12.089,https://novo3d.in/bigtreetech-mini-12864-display/
-Heatbed 310mm,1,1799,1799,19.789,https://novo3d.in/heat-bed-310mm/?attribute_voltage=12v&attribute_type=Heat+bed+with+100cm+cable
-Heatbed Clip,8,25,200,2.2,https://novo3d.in/heat-bed-clip/?attribute_type=Class+A
-Bed Leveling Set,1,159,159,1.749,https://novo3d.in/bed-leveling-nutset/?attribute_type=M4+set+kit
-Idler Pully 6mm without Teeth,2,65,130,1.43,https://novo3d.in/idler-pulley/?attribute_type=6mm+without+teeth
-Double Head Pulley,4,61,244,2.684,https://novo3d.in/v-belt-pulley/
-Idler Pully 6mm,2,69,138,1.518,https://novo3d.in/idler-pulley-6mm/
-6mm Timing Belt,1,236,236,2.596,https://novo3d.in/gt2-6mm-belt/
-Flexible Coupling 5x8,2,59,118,1.298,https://novo3d.in/flexible-coupling-5x8mm/
-"Misc. (Screw\, Nuts Connectors\, Jointers\, etc.)",1,2000,2000,22,
-Total,,,,308.858
+Name,Quantity,Price(INR),Cost(INR),Cost(USD),Source
+Titan extruder kit 0.4mm Mk8 nozzle 1.75mm filament for 3D printer,1,2199,2199,24.189,https://novo3d.in/titan-extruder-kit/
+42 stepper motor nema17 40mm for 3D printer,4,579,2316,25.476,https://novo3d.in/42-stepper-motor-nema17/
+Aluminium Profiles 2020 V Slot Extrusion black anodized - 380mm,6,136.01,816.08,8.97688,https://novo3d.in/aluminium-profiles-2020/
+Aluminium Profiles 2020 V Slot Extrusion black anodized - 480mm,4,171.81,687.23,7.55953,https://novo3d.in/aluminium-profiles-2020/
+Aluminium profile 2040 V Slot extrusion black anodized - 460mm,1,390.54,390.54,4.29594,https://novo3d.in/aluminium-profile-2040/
+Aluminium Profiles 2020 V Slot Extrusion black anodized - 420mm,2,150.33,300.66,3.30726,https://novo3d.in/aluminium-profiles-2020/
+Linear Guide Rail MGN Blocks CNC Linear Rail Slide - MGN12H,2,499,998,10.978,https://novo3d.in/linear-guide-rail/?attribute_type=MGN12H
+MGN12H Linear Rail Guide Carriage 30cm (without block),2,849,1698,18.678,https://novo3d.in/mgn12h-linear-rail/?attribute_size=30cmattribute_type=without+block
+MGN9H Linear Rails 30cm (without block),1,799,799,8.789,https://novo3d.in/mgn9h-linear-rail/?attribute_length=30cmattribute_block=without+block
+Linear Guide Rail MGN Blocks CNC Linear Rail Slide - MGN9H,1,479,479,5.269,https://novo3d.in/linear-guide-rail/?attribute_type=MGN9H
+10mm Smooth Rod Stainless Steel - 500mm,4,265,1060,11.66,https://novo3d.in/10mm-smooth-rod/?attribute_length=500mm
+Flexible coupling 5x8mm,2,55,110,1.21,https://novo3d.in/flexible-coupling-5x8mm/
+LM10UU 10mm linear bearing,4,45,180,1.98,https://novo3d.in/lm10uu-10mm-bearing/
+Single Start Lead Screw 2mm pitch - 400mm,2,239,478,5.258,https://novo3d.in/single-start-lead-screw/?attribute_size=400mm
+GT2 6mm Timing belt Steel Core - 1000cm,1,690,690,7.59,https://novo3d.in/gt2-6mm-belt/
+Motor Pulley GT2 16 teeth 5mm bore,2,35,70,0.77,https://novo3d.in/motor-pulley/?attribute_no-of-teeth=16+teethattribute_bore=5mm
+Idler pulley 6mm without teeth 5mm bore,2,69,138,1.518,https://novo3d.in/idler-pulley/?attribute_type=6mm+without+teeth
+Idler pulley 6mm with teeth 5mm bore,6,69,414,4.554,https://novo3d.in/idler-pulley-6mm/?attribute_belt-width=6mm+with+teeth
+Mini Limit Switch 3 pin SPDT L-type,3,13.5,40.5,0.4455,https://novo3d.in/mini-limit-switch/?attribute_type=L-+type
+Bigtreetech Mini 12864 Display V2.0,1,1099,1099,12.089,https://novo3d.in/bigtreetech-mini-12864-display/
+Bigtreetech SKRat V1.0 control board 32bit 64MHz,1,3689,3689,40.579,https://novo3d.in/bigtreetech-skrat-v1-0/
+Bed Leveling Nut Set M3,4,29,116,1.276,https://novo3d.in/bed-leveling-nutset/?attribute_type=M3+nut+set
+Heat bed 310mm 12V with 100cm cable,1,1799,1799,19.789,https://novo3d.in/heat-bed-310mm/?attribute_voltage=12vattribute_type=Heat+bed+with+100cm+cable
+Meanwell Power Supply 12V 30A,1,2999,2999,32.989,https://novo3d.in/mean-well-power-supply/?attribute_voltage=12V+30A
+"Misc. (Screw, Nuts, Bolts, Wires, etc.)",1,,,25,
+,,,23566.01,284.22611,
