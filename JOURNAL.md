@@ -3,7 +3,7 @@ Title: "Yenvo X3"
 Author: "Shubham"
 Description: "A CoreXY 3D Printer having a large build volume 300x300x400 mm³"
 Created_at: "2024-07-28"
-Total Time Spent: 90 hours
+Total Time Spent: 95 hours
 ---
 
 # Yenvo X3
@@ -144,9 +144,9 @@ The Heatbed support felt a bit wierd when I thought of thier movement, so decide
 <img width="786" height="582" alt="Screenshot 2025-09-01 233627" src="https://github.com/user-attachments/assets/be2322b1-0615-4853-a00d-11a84b2fb898" />
 <img width="436" height="352" alt="Screenshot 2025-09-01 233251" src="https://github.com/user-attachments/assets/9a4ceda8-69d7-4c35-99ff-9cd36b061448" />
 
-### Day 9, 10 & 11 
+### Day 9, 10, 11 & 12  
 
-**Time Spent** - 20 hours
+**Time Spent** - 25 hours
 
 My current model had a flaws so I recreated the whole model by improving and implementing a lot of changes which could have severily impacted the performance and/or functioning of the printer which includes but are not limited to:
 - Split all non printable parts into 2 halves.
@@ -158,3 +158,7 @@ My current model had a flaws so I recreated the whole model by improving and imp
 and a various small changes.
 
 Special thanks to Tanishq & Raygen for helping me identifing and fixed those issues.
+
+<img width="1136" height="648" alt="3" src="https://github.com/user-attachments/assets/9d8fb4e3-3180-4b42-bd4b-0d065d0bade0" />
+<img width="1136" height="648" alt="5" src="https://github.com/user-attachments/assets/06d737e8-2a4d-489d-aafe-42ee8968749a" />
+<img width="1136" height="648" alt="6" src="https://github.com/user-attachments/assets/79251447-df83-4e8e-86d5-aca94704bde0" />
